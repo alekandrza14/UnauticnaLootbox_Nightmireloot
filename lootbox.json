@@ -1,0 +1,194 @@
+{
+  "schemaVersion": 1,
+  "id": "Nightmireloot",
+  "title": "кашмарный лут (Редсость::Ублюдский)",
+  "description": "Тут выподает свастика бомжи пидоры члены хуи мозги бомжи кшики голые сисики пизды и серпы и говно моча",
+  "caseImage": "media/c91dcd85fddc4133ab3a49b04f41d251/case.png",
+  "openSound": "media/c91dcd85fddc4133ab3a49b04f41d251/opening.wav",
+  "ambientSound": "media/c91dcd85fddc4133ab3a49b04f41d251/ambient.wav",
+  "items": [
+    {
+      "id": "loot_6ec00dab",
+      "title": "Свастика",
+      "description": "За третий рейх",
+      "image": "media/c91dcd85fddc4133ab3a49b04f41d251/loot_1.png",
+      "weight": 1.0,
+      "variables": [
+        {
+          "name": "tevro",
+          "amount": 10.0
+        },
+        {
+          "name": "love",
+          "amount": -60.0
+        }
+      ]
+    },
+    {
+      "id": "loot_176b4ffb",
+      "title": "говно",
+      "description": "из туалета",
+      "image": "media/c91dcd85fddc4133ab3a49b04f41d251/loot_2.png",
+      "weight": 1.0,
+      "variables": [
+        {
+          "name": "tevro",
+          "amount": 15.0
+        },
+        {
+          "name": "shits",
+          "amount": 1.0
+        }
+      ]
+    },
+    {
+      "id": "loot_2e81c171",
+      "title": "бомж",
+      "description": "нету дома у него",
+      "image": "media/c91dcd85fddc4133ab3a49b04f41d251/loot_3.jpg",
+      "weight": 1.0,
+      "variables": [
+        {
+          "name": "tevro",
+          "amount": 2000.0
+        },
+        {
+          "name": "love",
+          "amount": 800.0
+        }
+      ]
+    },
+    {
+      "id": "loot_61261a22",
+      "title": "Пидорас",
+      "description": "300 тевро\nутракториста за евро 300 ососи",
+      "image": "media/c91dcd85fddc4133ab3a49b04f41d251/loot_4.png",
+      "weight": 1.0,
+      "variables": [
+        {
+          "name": "tevro",
+          "amount": 300.0
+        },
+        {
+          "name": "love",
+          "amount": -999.0
+        }
+      ]
+    },
+    {
+      "id": "loot_36d6c858",
+      "title": "Адольф гитлер",
+      "description": "я не придор",
+      "image": "media/c91dcd85fddc4133ab3a49b04f41d251/loot_5.png",
+      "weight": 1.0,
+      "variables": [
+        {
+          "name": "tevro",
+          "amount": -500000.0
+        }
+      ]
+    },
+    {
+      "id": "loot_fdccb5a6",
+      "title": "моча",
+      "description": "1 литр",
+      "image": "media/c91dcd85fddc4133ab3a49b04f41d251/loot_6.png",
+      "weight": 1.0,
+      "variables": [
+        {
+          "name": "piss",
+          "amount": 13.0
+        },
+        {
+          "name": "Love",
+          "amount": -999.0
+        }
+      ]
+    },
+    {
+      "id": "loot_c1f080e4",
+      "title": "голые сисикки чары",
+      "description": "у неё нет рук отрезан язык в пизде клий карман шипами всторну пизды масра вшита влицо и дёсна и губы апутировано кроме руй голосовый апарат и нету обной почки и сопоги сплавлены снагами спуней нет мозг контролируеться импланами подовляюшими волю и увличивующие чусвтиельность сосбено пизды и мутация спер-выработки-пота в шитая маска и меет рисеной сватики",
+      "image": "media/c91dcd85fddc4133ab3a49b04f41d251/loot_7.png",
+      "weight": 1.0,
+      "variables": [
+        {
+          "name": "love",
+          "amount": 6.0
+        },
+        {
+          "name": "tevro",
+          "amount": 15.0
+        }
+      ]
+    },
+    {
+      "id": "loot_a04e8bff",
+      "title": "Мозги",
+      "description": "Овно Этльта Кука",
+      "image": "media/c91dcd85fddc4133ab3a49b04f41d251/loot_8.png",
+      "weight": 1.0,
+      "variables": []
+    },
+    {
+      "id": "loot_0e0a11fe",
+      "title": "Кишки чары",
+      "description": "чара используеться для гненерации кишков в промышленом моштабе и за красиво смоделированого гена регенерации",
+      "image": "media/c91dcd85fddc4133ab3a49b04f41d251/loot_9.png",
+      "weight": 1.0,
+      "variables": [
+        {
+          "name": "tevro",
+          "amount": 100.0
+        }
+      ]
+    },
+    {
+      "id": "loot_6c6ded4b",
+      "title": "серп",
+      "description": "И ... Революция",
+      "image": "media/c91dcd85fddc4133ab3a49b04f41d251/loot_10.png",
+      "weight": 1.0,
+      "variables": [
+        {
+          "name": "tevro",
+          "amount": 10.0
+        }
+      ]
+    },
+    {
+      "id": "loot_f22fed31",
+      "title": "хуй",
+      "description": "хуй хуй хуй",
+      "image": "media/c91dcd85fddc4133ab3a49b04f41d251/loot_11.png",
+      "weight": 1.0,
+      "variables": []
+    },
+    {
+      "id": "loot_07d7bcf9",
+      "title": "Буржуйская ферма чары",
+      "description": "тут выращивають чару для мавого потребттеля",
+      "image": "media/c91dcd85fddc4133ab3a49b04f41d251/loot_12.png",
+      "weight": 1.0,
+      "variables": [
+        {
+          "name": "FlowTevro",
+          "amount": 1.0
+        }
+      ]
+    },
+    {
+      "id": "loot_035a6c6f",
+      "title": "буржуй",
+      "description": "этот человер есть чару оно канибал и унего моного денег его можно геноциднуть но у тебя может не получиться занего застуться вся армия его",
+      "image": "media/c91dcd85fddc4133ab3a49b04f41d251/loot_13.png",
+      "weight": 1.0,
+      "variables": [
+        {
+          "name": "tevro",
+          "amount": -2000.0
+        }
+      ]
+    }
+  ]
+}
